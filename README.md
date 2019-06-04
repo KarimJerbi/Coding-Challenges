@@ -3,7 +3,7 @@
 
 This repo should work with the latest love version (currently 11.2)
 
-Here's [the youtube playlist] (https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
+Here's [the youtube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 ## A list of completed challenges:
 
 
