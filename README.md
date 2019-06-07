@@ -10,5 +10,6 @@ Here's [the youtube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
 - [x] #117 [Seven Segment Display](https://github.com/apolius/Coding-Challenges/blob/master/7-segment-display)
+- [x] #131 [Bouncing DVD](https://github.com/apolius/Coding-Challenges/blob/master/bouncing_DVD)
 
 
