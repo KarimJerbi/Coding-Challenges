@@ -24,5 +24,6 @@ After downloading the [love framework](https://love2d.org)
 - [x] #114 [Bubble Sort Visualization](https://github.com/apolius/Coding-Challenges/blob/master/bubble-sort-visualization)
 - [x] #117 [Seven Segment Display](https://github.com/apolius/Coding-Challenges/blob/master/7-segment-display)
 - [x] #131 [Bouncing DVD](https://github.com/apolius/Coding-Challenges/blob/master/bouncing_DVD)
+- [x] #140 [Pi approximation : Leibniz](https://github.com/apolius/Coding-Challenges/blob/master/pi_Leibniz)
 
 
