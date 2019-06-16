@@ -6,13 +6,12 @@ love.window.setTitle('Countdown Timer')
 window = {}
 window.width = love.graphics.getWidth()
 window.height = love.graphics.getHeight()
-position = (window.width-60*3)/60
-
 input = 80 -- edit this to modify the timing
 seconds,minutes,hours,s,ss,m,mm,h,hh = 0
 end
 
 function love.update(dt)
+if math.floor(input) ~= 0 then
 	input= input -dt
 	seconds = math.floor(math.mod(input,60))
 	s = seconds % 10
@@ -23,7 +22,7 @@ function love.update(dt)
 	hours = (math.floor(input)-math.floor(input % 3600))/3600
 	h = hours % 10
 	hh = (hours - h) / 10
-
+end
 end
 
 function love.draw()
