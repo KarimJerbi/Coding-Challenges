@@ -15,16 +15,19 @@ After downloading the [love framework](https://love2d.org)
 >$ love {$challenge}
 
 ## A list of completed challenges:
-
+ currently 9 out of 147 are completed that's about 6.12% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
+- [ ] #003 Snake Game: in progress
 - [x] #004 [Purple Rain](https://github.com/apolius/Coding-Challenges/blob/master/purple-rain)
+- [ ] #005 Space Invaders: in progress
 - [x] #066 [Countdown Timer](https://github.com/apolius/Coding-Challenges/blob/master/countdown_timer)
 - [x] #088 [Snowfall](https://github.com/apolius/Coding-Challenges/blob/master/snowfall)
 - [x] #114 [Bubble Sort Visualization](https://github.com/apolius/Coding-Challenges/blob/master/bubble-sort-visualization)
 - [x] #117 [Seven Segment Display](https://github.com/apolius/Coding-Challenges/blob/master/7-segment-display)
 - [x] #131 [Bouncing DVD](https://github.com/apolius/Coding-Challenges/blob/master/bouncing_DVD)
+- [x] #139 [Pi approximation : Collisions](https://github.com/apolius/Coding-Challenges/blob/master/pi_collisions)
 - [x] #140 [Pi approximation : Leibniz](https://github.com/apolius/Coding-Challenges/blob/master/pi_Leibniz)
 
 
