@@ -1,4 +1,4 @@
--- #088 snowfall - Karim Jerbi(@apuleius) 06-2019
+-- #088 snowfall - Karim Jerbi(@apolius) 06-2019
 snowsheet = love.graphics.newImage("flakes32.png")
 
 function love.load()

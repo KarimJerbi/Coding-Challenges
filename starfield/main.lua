@@ -13,10 +13,10 @@ function newstar()
 	star.y = love.math.random(-window.height/2,window.height/2)
 	star.zx = window.width
 	star.zy = window.height
-	--star.px = star.x -- I dont like how this looks
-	--star.py = star.y -- this along other commented lines 
-	                   -- creates star lines
-	star.r = 1         --star initial size
+	--star.px = star.x -- I dont like how this looks,
+	--star.py = star.y -- This along other commented lines 
+	                   -- creates star lines.
+	star.r = 1         -- star initial size
 	table.insert(stars,star)
 end
 

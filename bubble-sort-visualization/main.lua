@@ -1,4 +1,4 @@
--- #114 Bubble Sort Visualization - Karim Jerbi(@apuleius)
+-- #114 Bubble Sort Visualization - Karim Jerbi(@apolius)
 
 function love.load()
 love.window.setTitle('Bubble Sort Visualization')
