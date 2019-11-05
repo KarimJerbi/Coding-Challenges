@@ -45,9 +45,9 @@ end
 
 rgb = {0.1,0.5,0.1}
 function randomColor()
-	r = love.math.random(100/255,1)
-	g = love.math.random(100/255,1)
-	b = love.math.random(100/255,1)
+	r = love.math.random()
+	g = love.math.random()
+	b = love.math.random()
 	return {r,g,b}
 end
 
