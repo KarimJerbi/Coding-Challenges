@@ -13,7 +13,7 @@ end
 
 function love.update(dt)
 	orbit(sun)
-	love.timer.sleep(0.1)
+	--love.timer.sleep(0.1)
 end
 
 function love.draw()

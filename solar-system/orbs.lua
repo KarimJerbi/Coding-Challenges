@@ -14,8 +14,8 @@ function newOrb(r,d,l,o)
 	if l < 3 then -- Recursive Spawning
 		for i=1,random(2,4) do 
 			r = orb.r/(l*2)
-			d = random(50, 150)
-			o = random(-0.1, 0.1)
+			d = random(75, 150)
+			o = random(-0.01, 0.01)
 			table.insert(orb.orbs,newOrb(r, d/l,l+1,o))
 		end
 	end
