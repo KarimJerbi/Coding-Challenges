@@ -1,5 +1,6 @@
 -- #030 Phyllotaxis - Karim Jerbi(@apolius)
 
+love.window.setTitle('Phyllotaxis')
 function love.load()
 	g = love.graphics
 	n = 0

@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love {$challenge}
 
 ## A list of completed challenges:
- currently 15 out of 152 are completed that's about 9.86% progress so far!
+ currently 17 out of 153 are completed that's about 11.11% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -34,5 +34,6 @@ After downloading the [love framework](https://love2d.org)
 - [x] #131 [Bouncing DVD](https://github.com/apolius/Coding-Challenges/blob/master/bouncing_DVD)
 - [x] #139 [Pi approximation : Collisions](https://github.com/apolius/Coding-Challenges/blob/master/pi_collisions)
 - [x] #140 [Pi approximation : Leibniz](https://github.com/apolius/Coding-Challenges/blob/master/pi_Leibniz)
+- [x] #149 [Tic Tac Toe](https://github.com/apolius/Coding-Challenges/blob/master/tic_tac_toe)
 
 
