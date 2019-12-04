@@ -155,6 +155,6 @@ function love.draw()
 	end
 	g.print(gamestates[gameover+1],10,500)
 	if gameover~= 0 then
-		g.print("press r to restart /"..state[3],10,550)
+		g.print("press r to restart",10,550)
 	end
 end
