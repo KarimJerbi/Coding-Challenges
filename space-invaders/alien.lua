@@ -3,7 +3,7 @@
 alienSize = window.width/16
 rowSize = 8
 
-row1, row2, row3 = {}, {}, {}
+row1 , row2, row3 = {}, {}, {}
 rows = {row1, row2, row3}
 
 function newAlien(x,y,row)
@@ -16,6 +16,8 @@ function newAlien(x,y,row)
 end
 
 function initAliens()
+row1, row2, row3 = {}, {}, {}
+rows= {row1, row2, row3}
 for row = 1, #rows do
 	for i = 1, rowSize do
 		local x = ((i-1)*alienSize)+(i*alienSize)
