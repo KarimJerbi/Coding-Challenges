@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love {$challenge}
 
 ## A list of completed challenges:
- currently 21 out of 155 are completed that's about 13.54% progress so far!
+ currently 23 out of 155 are completed that's about 14.83% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -32,7 +32,9 @@ After downloading the [love framework](https://love2d.org)
 - [x] #074 [Clock](https://github.com/apolius/Coding-Challenges/blob/master/clock)
 - [x] #088 [Snowfall](https://github.com/apolius/Coding-Challenges/blob/master/snowfall)
 - [x] #114 [Bubble Sort Visualization](https://github.com/apolius/Coding-Challenges/blob/master/bubble-sort-visualization)
+- [x] #115 [Snake Redux] -- I think this is the same as [#003](https://github.com/apolius/Coding-Challenges/tree/master/the_snakegame) please let me know if I am wrong
 - [x] #117 [Seven Segment Display](https://github.com/apolius/Coding-Challenges/blob/master/7-segment-display)
+- [x] #119 [Binary to Decimal Convertion](https://github.com/apolius/Coding-Challenges/blob/master/binary_to_decimal)
 - [x] #127 [Brownian Motion Snowflake](https://github.com/apolius/Coding-Challenges/blob/master/brownian-motion-snowflake)
 - [x] #131 [Bouncing DVD](https://github.com/apolius/Coding-Challenges/blob/master/bouncing_DVD)
 - [x] #139 [Pi approximation : Collisions](https://github.com/apolius/Coding-Challenges/blob/master/pi_collisions)
