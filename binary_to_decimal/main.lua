@@ -6,7 +6,7 @@ function love.load()
 	lm = love.mouse
 	width, height = lg.getDimensions()
 	lg.setDefaultFilter('nearest')
-	bits = '11111110'
+	bits = '11111111'
 	r = 255
 
 	function convert(bits)
