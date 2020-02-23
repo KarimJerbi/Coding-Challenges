@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love {$challenge}
 
 ## A list of completed challenges:
- currently 25 out of 155 are completed that's about 16.12% progress so far!
+ currently 26 out of 155 are completed that's about 16.77% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -36,6 +36,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #115 [Snake Redux] -- I think this is the same as [#003](https://github.com/apolius/Coding-Challenges/tree/master/the_snakegame) please let me know if I am wrong
 - [x] #117 [Seven Segment Display](https://github.com/apolius/Coding-Challenges/blob/master/7-segment-display)
 - [x] #119 [Binary to Decimal Convertion](https://github.com/apolius/Coding-Challenges/blob/master/binary_to_decimal)
+- [x] #120 [Bit Shifting](https://github.com/apolius/Coding-Challenges/blob/master/bit-shifting)
 - [x] #127 [Brownian Motion Snowflake](https://github.com/apolius/Coding-Challenges/blob/master/brownian-motion-snowflake)
 - [x] #131 [Bouncing DVD](https://github.com/apolius/Coding-Challenges/blob/master/bouncing_DVD)
 - [x] #139 [Pi approximation : Collisions](https://github.com/apolius/Coding-Challenges/blob/master/pi_collisions)
