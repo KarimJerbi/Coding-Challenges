@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love {$challenge}
 
 ## A list of completed challenges:
- currently 26 out of 155 are completed that's about 16.77% progress so far!
+ currently 27 out of 156 are completed that's about 17.3% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -32,6 +32,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #066 [Countdown Timer](https://github.com/apolius/Coding-Challenges/blob/master/countdown_timer)
 - [x] #074 [Clock](https://github.com/apolius/Coding-Challenges/blob/master/clock)
 - [x] #088 [Snowfall](https://github.com/apolius/Coding-Challenges/blob/master/snowfall)
+- [x] #095 [Pi approximation : Monte Carlo](https://github.com/apolius/Coding-Challenges/blob/master/pi_monteCarlo)
 - [x] #114 [Bubble Sort Visualization](https://github.com/apolius/Coding-Challenges/blob/master/bubble-sort-visualization)
 - [x] #115 [Snake Redux] -- I think this is the same as [#003](https://github.com/apolius/Coding-Challenges/tree/master/the_snakegame) please let me know if I am wrong
 - [x] #117 [Seven Segment Display](https://github.com/apolius/Coding-Challenges/blob/master/7-segment-display)
