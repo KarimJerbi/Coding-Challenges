@@ -2,7 +2,7 @@
 # Coding Challenges 🚞
 [Coding Train](https://github.com/CodingTrain)'s coding challenges in the [love](https://love2d.org) ❤️ framework
 
-This repo should work with the latest love version (currently 11.3)
+This repo should work with the latest love version (currently 11.4)
 
 Here's [the youtube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 ## See it in action:
@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love {$challenge}
 
 ## A list of completed challenges:
- currently 27 out of 156 are completed that's about 17.3% progress so far!
+ currently 28 out of 164 are completed that's about 17.07% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -45,3 +45,4 @@ After downloading the [love framework](https://love2d.org)
 - [x] #148 [Gift Wrapping Algorithm](https://github.com/apolius/Coding-Challenges/blob/master/gift_wrapping)
 - [x] #149 [Tic Tac Toe](https://github.com/apolius/Coding-Challenges/blob/master/tic_tac_toe)
 - [x] #155 [Kaleidoscope Snowflake](https://github.com/apolius/Coding-Challenges/blob/master/kaleidoscope_snowflake)
+- [x] #162 [Self Avoiding Walk](https://github.com/apolius/Coding-Challenges/blob/master/self_avoiding_walk)
