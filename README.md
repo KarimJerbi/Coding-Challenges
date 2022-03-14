@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love {$challenge}
 
 ## A list of completed challenges:
- currently 29 out of 164 are completed that's about 17.68% progress so far!
+ currently 30 out of 168 are completed that's about 17.85% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -32,6 +32,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #052 [Random Walker](https://github.com/apolius/Coding-Challenges/blob/master/random_walker)
 - [x] #066 [Countdown Timer](https://github.com/apolius/Coding-Challenges/blob/master/countdown_timer)
 - [x] #074 [Clock](https://github.com/apolius/Coding-Challenges/blob/master/clock)
+- [x] #084 [Minesweeper](https://github.com/apolius/Coding-Challenges/blob/master/minesweeper)
 - [x] #088 [Snowfall](https://github.com/apolius/Coding-Challenges/blob/master/snowfall)
 - [x] #095 [Pi approximation : Monte Carlo](https://github.com/apolius/Coding-Challenges/blob/master/pi_monteCarlo)
 - [x] #114 [Bubble Sort Visualization](https://github.com/apolius/Coding-Challenges/blob/master/bubble-sort-visualization)
