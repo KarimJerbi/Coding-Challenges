@@ -32,7 +32,7 @@ end
 end
 
 function love.draw()
-love.graphics.setBackgroundColor(230/255, 200/255, 255/255)
+love.graphics.setBackgroundColor(230/255, 200/255, 1)
 for _,v in pairs(rain) do
 	love.graphics.setColor(138/255, 43/255, 226/255)
 	love.graphics.setLineWidth(v.w)

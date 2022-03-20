@@ -12,10 +12,10 @@ After downloading the [love framework](https://love2d.org)
 
 >$ cd Coding-Challenges
 
->$ love {$challenge}
+>$ love $challenge
 
 ## A list of completed challenges:
- currently 30 out of 168 are completed that's about 17.85% progress so far!
+ currently 31 out of 169 are completed that's about 18.34% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -48,3 +48,5 @@ After downloading the [love framework](https://love2d.org)
 - [x] #149 [Tic Tac Toe](https://github.com/apolius/Coding-Challenges/blob/master/tic_tac_toe)
 - [x] #155 [Kaleidoscope Snowflake](https://github.com/apolius/Coding-Challenges/blob/master/kaleidoscope_snowflake)
 - [x] #162 [Self Avoiding Walk](https://github.com/apolius/Coding-Challenges/blob/master/self_avoiding_walk)
+- [x] #167 [Prime Spiral](https://github.com/apolius/Coding-Challenges/blob/master/prime_spiral)
+
