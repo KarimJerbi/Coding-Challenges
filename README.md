@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 31 out of 169 are completed that's about 18.34% progress so far!
+ currently 32 out of 169 are completed that's about 18.93% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -31,8 +31,8 @@ After downloading the [love framework](https://love2d.org)
 - [x] #030 [Phyllotaxis](https://github.com/apolius/Coding-Challenges/blob/master/phyllotaxis)
 - [x] #052 [Random Walker](https://github.com/apolius/Coding-Challenges/blob/master/random_walker)
 - [x] #066 [Countdown Timer](https://github.com/apolius/Coding-Challenges/blob/master/countdown_timer)
+- [x] #071 [Minesweeper](https://github.com/apolius/Coding-Challenges/blob/master/minesweeper)
 - [x] #074 [Clock](https://github.com/apolius/Coding-Challenges/blob/master/clock)
-- [x] #084 [Minesweeper](https://github.com/apolius/Coding-Challenges/blob/master/minesweeper)
 - [x] #088 [Snowfall](https://github.com/apolius/Coding-Challenges/blob/master/snowfall)
 - [x] #095 [Pi approximation : Monte Carlo](https://github.com/apolius/Coding-Challenges/blob/master/pi_monteCarlo)
 - [x] #114 [Bubble Sort Visualization](https://github.com/apolius/Coding-Challenges/blob/master/bubble-sort-visualization)
@@ -49,4 +49,4 @@ After downloading the [love framework](https://love2d.org)
 - [x] #155 [Kaleidoscope Snowflake](https://github.com/apolius/Coding-Challenges/blob/master/kaleidoscope_snowflake)
 - [x] #162 [Self Avoiding Walk](https://github.com/apolius/Coding-Challenges/blob/master/self_avoiding_walk)
 - [x] #167 [Prime Spiral](https://github.com/apolius/Coding-Challenges/blob/master/prime_spiral)
-
+- [x] #169 [Pi in the sky](https://github.com/apolius/Coding-Challenges/blob/master/pi_in_the_sky)
