@@ -8,7 +8,7 @@ window = {}
 window.width = love.graphics.getWidth()
 window.height = love.graphics.getHeight()
 
-click = love.audio.newSource('click.wav', 'static')
+click = love.audio.newSource('click.ogg', 'static')
 
 count = 0
 digits = 4
@@ -37,7 +37,7 @@ end
 function hitwall(b)
 	if b.x <=0 then
 		b.v = -b.v
-		love.audio.play(click)
+		local instance = click:play()  
 		count = count+1
 	end
 end

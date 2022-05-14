@@ -8,6 +8,7 @@ none
 
 ## Nice things to add: 
 
+- solve the memory problem
 - comments to explain this tunisian spaghetti code
 - a key to restart
 - settings to add more columns
