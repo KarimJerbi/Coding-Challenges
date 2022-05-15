@@ -30,7 +30,7 @@ function love.load()
     -- the closest to the screen
     points[1], points[first] = points[first], points[1]
     
-    -- work around to make the shape not collapse on itself
+    -- workaround to make the shape not collapse on itself
     points[#points + 1] = points[1]
     
     -- Resume the algorithm

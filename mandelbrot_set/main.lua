@@ -1,4 +1,5 @@
 -- #021 Mandelbrot Set - Karim Jerbi(@apolius)
+
 g = love.graphics
 love.window.setTitle('Mandelbrot Set')
 max = 100

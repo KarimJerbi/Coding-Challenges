@@ -2,10 +2,8 @@
 
 function love.load()
 	love.window.setTitle("Bit Shifting")
-	lg = love.graphics
-	lm = love.mouse
-	width, height = lg.getDimensions()
-	lg.setDefaultFilter('nearest')
+	width, height = love.graphics.getDimensions()
+	love.graphics.setDefaultFilter('nearest')
 	bits = '11111111'
 	r = 255
 
@@ -19,11 +17,11 @@ function love.load()
 		return r
 	end
 
-	x,y = lm.getPosition()
+	x,y = love.mouse.getPosition()
 
 	function clicked(x,y,cx,cy)
 		-- check if the mouse has clicked a bit(cx,cy)
-		return (x - cx)^2 + (y - cy)^2 < 25^2 and lm.isDown(1)
+		return (x - cx)^2 + (y - cy)^2 < 25^2 and love.mouse.isDown(1)
 	end
 
 	function flip(bits,x)
@@ -60,7 +58,7 @@ function love.load()
 end
 
 function love.update(dt)
-	x,y = lm.getPosition()
+	x,y = love.mouse.getPosition()
 	for i=1,8 do
 		if clicked(x,y,20+(i*55),100)then
 			bits = flip(bits,i)
@@ -81,18 +79,18 @@ function love.update(dt)
 end
 
 function love.draw()
-	lg.clear(0.6,0.5,0.75)
+	love.graphics.clear(0.6,0.5,0.75)
 	for i=1,8 do
 		if bits:sub(i,i) == '1' then
-			lg.setColor(1,1,1)
-			lg.ellipse('fill',20+(i*55),100,25,25)
+			love.graphics.setColor(1,1,1)
+			love.graphics.ellipse('fill',20+(i*55),100,25,25)
 		end
-		lg.ellipse('line',20+(i*55),100,25,25)
+		love.graphics.ellipse('line',20+(i*55),100,25,25)
 	end
-	lg.setColor(1,1,1)
-	lg.ellipse('line',250,300,25,25)
-	lg.print('<<',230,275,0,2,3)
-	lg.ellipse('line',350,300,25,25)
-	lg.print('>>',330,275,0,2,3)
-	lg.print(r,width/4,height/4,0,8,8)
+	love.graphics.setColor(1,1,1)
+	love.graphics.ellipse('line',250,300,25,25)
+	love.graphics.print('<<',230,275,0,2,3)
+	love.graphics.ellipse('line',350,300,25,25)
+	love.graphics.print('>>',330,275,0,2,3)
+	love.graphics.print(r,width/4,height/4,0,8,8)
 end
