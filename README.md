@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 33 out of 176 are completed that's about 18.75% progress so far!
+ currently 34 out of 179 are completed that's about 18.99% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -51,3 +51,4 @@ After downloading the [love framework](https://love2d.org)
 - [x] #165 [Sliding Puzzle](https://github.com/apolius/Coding-Challenges/blob/master/sliding_puzzle)
 - [x] #167 [Prime Spiral](https://github.com/apolius/Coding-Challenges/blob/master/prime_spiral)
 - [x] #169 [Pi in the sky](https://github.com/apolius/Coding-Challenges/blob/master/pi_in_the_sky)
+- [x] #170 [The Monty Hall Problem](https://github.com/apolius/Coding-Challenges/blob/master/monty_hall)
