@@ -2,7 +2,7 @@
 # Coding Challenges 🚞
 [Coding Train](https://github.com/CodingTrain)'s coding challenges in the [love](https://love2d.org) ❤️ framework
 
-This repo should work with the latest love version (currently 11.4)
+This repo should work with the latest love version (currently 11.5)
 
 Here's [the youtube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
 ## See it in action:
@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 34 out of 179 are completed that's about 18.99% progress so far!
+ currently 35 out of 179 are completed that's about 19.55% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -37,6 +37,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #095 [Pi approximation : Monte Carlo](https://github.com/apolius/Coding-Challenges/blob/master/pi_monteCarlo)
 - [x] #114 [Bubble Sort Visualization](https://github.com/apolius/Coding-Challenges/blob/master/bubble-sort-visualization)
 - [x] #115 [Snake Redux] -- I think this is the same as [#003](https://github.com/apolius/Coding-Challenges/tree/master/the_snakegame) please let me know if I am wrong
+- [x] #116 [Lissajous Table](https://github.com/apolius/Coding-Challenges/blob/master/lissajous)
 - [x] #117 [Seven Segment Display](https://github.com/apolius/Coding-Challenges/blob/master/7-segment-display)
 - [x] #119 [Binary to Decimal Convertion](https://github.com/apolius/Coding-Challenges/blob/master/binary_to_decimal)
 - [x] #120 [Bit Shifting](https://github.com/apolius/Coding-Challenges/blob/master/bit-shifting)
