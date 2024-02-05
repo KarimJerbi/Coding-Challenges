@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 35 out of 179 are completed that's about 19.55% progress so far!
+ currently 36 out of 180 are completed that's about 20% progress so far!
 
 - [x] #001 [Starfield](https://github.com/apolius/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -29,6 +29,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #014 [Fractal Tree](https://github.com/apolius/Coding-Challenges/blob/master/fractal-tree)
 - [x] #021 [Mandelbrot Set](https://github.com/apolius/Coding-Challenges/blob/master/mandelbrot_set)
 - [x] #030 [Phyllotaxis](https://github.com/apolius/Coding-Challenges/blob/master/phyllotaxis)
+- [x] #036 [Blobby](https://github.com/apolius/Coding-Challenges/blob/master/blobby)
 - [x] #052 [Random Walker](https://github.com/apolius/Coding-Challenges/blob/master/random_walker)
 - [x] #066 [Countdown Timer](https://github.com/apolius/Coding-Challenges/blob/master/countdown_timer)
 - [x] #071 [Minesweeper](https://github.com/apolius/Coding-Challenges/blob/master/minesweeper)
