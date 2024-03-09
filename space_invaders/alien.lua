@@ -1,4 +1,4 @@
--- #005 Space Invaders - Karim Jerbi(@apolius)
+-- #005 Space Invaders - Karim Jerbi(@KarimJerbi)
 -- alien.lua : contains code related to the alien object
 alienSize = window.width/16
 rowSize = 8

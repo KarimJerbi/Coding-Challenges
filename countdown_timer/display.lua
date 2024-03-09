@@ -1,4 +1,4 @@
--- display.lua : creates a 7 segment display (@apolius)
+-- display.lua : creates a 7 segment display (@KarimJerbi)
 
 -- n : 0:off 1:on order:abcdefg (see wikipedia)
 -- example N = "1110111" display A

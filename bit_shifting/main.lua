@@ -1,4 +1,4 @@
--- #120 Bit Shifting - Karim Jerbi(@apolius)
+-- #120 Bit Shifting - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 	love.window.setTitle("Bit Shifting")

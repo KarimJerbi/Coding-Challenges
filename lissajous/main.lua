@@ -1,4 +1,4 @@
--- #116 Lissajous Table - Karim Jerbi(@apolius)
+-- #116 Lissajous Table - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 	love.window.setTitle("Lissajous Table")

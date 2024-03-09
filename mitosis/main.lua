@@ -1,4 +1,4 @@
--- #006 Mitosis - Karim Jerbi(@apolius)
+-- #006 Mitosis - Karim Jerbi(@KarimJerbi)
 
 love.window.setTitle('Mitosis')
 

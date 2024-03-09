@@ -1,4 +1,4 @@
--- #139 Pi:Collisions - Karim Jerbi(@apolius)
+-- #139 Pi:Collisions - Karim Jerbi(@KarimJerbi)
 
 require 'slam'
 

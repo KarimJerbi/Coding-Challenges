@@ -1,4 +1,4 @@
--- #140 Pi:Leibniz - Karim Jerbi(@apolius)
+-- #140 Pi:Leibniz - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 love.window.setTitle('Pi : Leibniz')

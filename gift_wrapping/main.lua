@@ -1,4 +1,4 @@
--- #148 Gift Wrapping - Karim Jerbi(@apolius)
+-- #148 Gift Wrapping - Karim Jerbi(@KarimJerbi)
 
 function love.load()
     love.window.setTitle('Gift Wrapping ')

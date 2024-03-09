@@ -1,4 +1,4 @@
--- #014 Fractal Tree - Karim Jerbi(@apolius)
+-- #014 Fractal Tree - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 	love.window.setTitle('Fractal Tree')

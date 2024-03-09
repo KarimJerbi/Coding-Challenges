@@ -1,4 +1,4 @@
--- #005 Space Invaders - Karim Jerbi(@apolius)
+-- #005 Space Invaders - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 love.window.setTitle('Space Invaders')

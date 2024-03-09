@@ -1,4 +1,4 @@
--- #127 Brownian Motion Snowflake - Karim Jerbi(@apolius)
+-- #127 Brownian Motion Snowflake - Karim Jerbi(@KarimJerbi)
 
 love.window.setTitle('Brownian Motion Snowflake')
 function love.load()

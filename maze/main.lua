@@ -1,4 +1,4 @@
--- #010 Maze Generator - Karim Jerbi(@apolius)
+-- #010 Maze Generator - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 	love.window.setTitle("Maze Generator")

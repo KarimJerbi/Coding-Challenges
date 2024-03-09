@@ -1,4 +1,4 @@
--- #131 Bouncing DVD - Karim Jerbi(@apolius) 06-2019
+-- #131 Bouncing DVD - Karim Jerbi(@KarimJerbi) 06-2019
 
 function love.load()
 	love.window.setTitle('Bouncing DVD')

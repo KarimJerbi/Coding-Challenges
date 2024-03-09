@@ -1,4 +1,4 @@
--- #007 Solar System 2D - Karim Jerbi(@apolius)
+-- #007 Solar System 2D - Karim Jerbi(@KarimJerbi)
 -- orbs.lua : contains code related to orbs: stars,planets and moons
 
 random = love.math.random 

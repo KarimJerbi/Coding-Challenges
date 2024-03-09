@@ -1,4 +1,4 @@
--- #084 Minesweeper - Karim Jerbi @apolius
+-- #084 Minesweeper - Karim Jerbi @KarimJerbi
 
 function love.load()
 	love.window.setTitle('Minesweeper')

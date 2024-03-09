@@ -1,4 +1,4 @@
--- #021 Mandelbrot Set - Karim Jerbi(@apolius)
+-- #021 Mandelbrot Set - Karim Jerbi(@KarimJerbi)
 
 g = love.graphics
 love.window.setTitle('Mandelbrot Set')

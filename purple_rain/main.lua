@@ -1,4 +1,4 @@
--- #004 Purple Rain - Karim Jerbi(@apolius)
+-- #004 Purple Rain - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 love.window.setTitle('Purple Rain')

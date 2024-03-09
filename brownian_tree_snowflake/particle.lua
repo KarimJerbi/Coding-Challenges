@@ -1,4 +1,4 @@
--- #127 Brownian Motion Snowflake - Karim Jerbi(@apolius)
+-- #127 Brownian Motion Snowflake - Karim Jerbi(@KarimJerbi)
 -- particle.lua : contains code related to the particle object
 
 function newParticle(radius,angle)

@@ -1,4 +1,4 @@
--- #095 Pi:Monte Carlo - Karim Jerbi(@apolius)
+-- #095 Pi:Monte Carlo - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 love.window.setTitle('Pi : Monte Carlo')

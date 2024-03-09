@@ -1,4 +1,4 @@
--- #005 Space Invaders - Karim Jerbi(@apolius)
+-- #005 Space Invaders - Karim Jerbi(@KarimJerbi)
 -- bullet.lua : contains code related to the bullet object
 
 bullets = {} -- ONLY PLAYER BULLETS

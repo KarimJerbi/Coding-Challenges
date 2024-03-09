@@ -1,4 +1,4 @@
--- #003 The Snake Game - Karim Jerbi(@apolius)
+-- #003 The Snake Game - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 love.window.setTitle('The Snake Game')

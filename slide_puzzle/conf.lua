@@ -1,4 +1,4 @@
--- #132 Fluid Simulation - Karim Jerbi(@apolius)
+-- #132 Fluid Simulation - Karim Jerbi(@KarimJerbi)
 
 function love.conf(t)
 	t.modules.audio = false

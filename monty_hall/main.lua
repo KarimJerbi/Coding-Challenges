@@ -1,4 +1,4 @@
--- #170 The Monty Hall Problem - Karim Jerbi(@apolius)
+-- #170 The Monty Hall Problem - Karim Jerbi(@KarimJerbi)
 function love.load()
 	love.window.setTitle('Monty Hall')
     love.math.setRandomSeed(os.time())

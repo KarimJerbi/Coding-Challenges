@@ -1,4 +1,4 @@
--- #036 Blobby - Karim Jerbi (@apolius)
+-- #036 Blobby - Karim Jerbi (@KarimJerbi)
 -- thanks Sasha from LOVE discord
 
 local function distance(p1, p2, s) -- steps between two control points

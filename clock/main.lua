@@ -1,4 +1,4 @@
--- #074 Clock - Karim Jerbi(@apolius)
+-- #074 Clock - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 	love.window.setTitle("Clock")

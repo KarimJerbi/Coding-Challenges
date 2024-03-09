@@ -1,4 +1,4 @@
--- #030 Phyllotaxis - Karim Jerbi(@apolius)
+-- #030 Phyllotaxis - Karim Jerbi(@KarimJerbi)
 
 love.window.setTitle('Phyllotaxis')
 function love.load()

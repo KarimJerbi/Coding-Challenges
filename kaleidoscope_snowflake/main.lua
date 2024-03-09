@@ -1,4 +1,4 @@
--- #155 Kaleidoscope Snowflake - Karim Jerbi(@apolius)
+-- #155 Kaleidoscope Snowflake - Karim Jerbi(@KarimJerbi)
 
 love.window.setTitle('Kaleidoscope Snowflake')
 lg = love.graphics

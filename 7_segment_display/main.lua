@@ -1,4 +1,4 @@
--- #117 Seven-Segment Display - Karim Jerbi (@apolius) 06-2019
+-- #117 Seven-Segment Display - Karim Jerbi (@KarimJerbi) 06-2019
 
 function love.load()
 	love.window.setTitle('Seven Segment Display')

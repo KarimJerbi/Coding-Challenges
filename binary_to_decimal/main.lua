@@ -1,4 +1,4 @@
--- #119 Binary to Decimal Conversion - Karim Jerbi(@apolius)
+-- #119 Binary to Decimal Conversion - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 	love.window.setTitle("Binary to Decimal Conversion")

@@ -1,4 +1,4 @@
--- #013 Reaction Diffusion - Karim Jerbi(@apolius)
+-- #013 Reaction Diffusion - Karim Jerbi(@KarimJerbi)
 
 function love.load()
     love.window.setTitle('Reaction Diffusion')

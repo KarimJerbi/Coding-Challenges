@@ -1,4 +1,4 @@
--- #005 Space Invaders - Karim Jerbi(@apolius)
+-- #005 Space Invaders - Karim Jerbi(@KarimJerbi)
 -- ship.lua : contains code related to the ship object
 
 function initShip()

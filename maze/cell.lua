@@ -1,4 +1,4 @@
--- #010 Maze - Karim Jerbi(@apolius)
+-- #010 Maze - Karim Jerbi(@KarimJerbi)
 -- cell.lua: contains code related to the cell object
 
 function newCell(i,j)

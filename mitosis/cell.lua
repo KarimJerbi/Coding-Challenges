@@ -1,4 +1,4 @@
--- #006 Mitosis - Karim Jerbi(@apolius)
+-- #006 Mitosis - Karim Jerbi(@KarimJerbi)
 -- cell.lua : contains code related to the cell object
 
 random = love.math.random

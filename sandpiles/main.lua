@@ -1,4 +1,4 @@
--- #107 Sand Piles - Karim Jerbi(@apolius)
+-- #107 Sand Piles - Karim Jerbi(@KarimJerbi)
 -- Define default color
 defaultColor = {255, 0, 0}
 

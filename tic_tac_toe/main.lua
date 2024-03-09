@@ -1,4 +1,4 @@
--- #149 Tic Tac Toe - Karim Jerbi(@apolius)
+-- #149 Tic Tac Toe - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 love.window.setTitle('Tic Tac Toe')

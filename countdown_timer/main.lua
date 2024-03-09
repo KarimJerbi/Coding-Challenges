@@ -1,4 +1,4 @@
--- #066 Countdown Timer - Karim Jerbi (@apolius)
+-- #066 Countdown Timer - Karim Jerbi (@KarimJerbi)
 require("display")
 
 function love.load()

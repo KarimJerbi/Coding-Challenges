@@ -1,4 +1,4 @@
--- #007 Solar System 2D - Karim Jerbi(@apolius)
+-- #007 Solar System 2D - Karim Jerbi(@KarimJerbi)
 
 function love.load()
 love.window.setTitle('Solar System')

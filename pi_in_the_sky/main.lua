@@ -1,4 +1,4 @@
--- #0169 Pi in the Sky - Karim Jerbi(@apolius)
+-- #0169 Pi in the Sky - Karim Jerbi(@KarimJerbi)
 function love.load()
 	love.window.setTitle('Pi in the Sky')
 	lg = love.graphics

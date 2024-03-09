@@ -1,4 +1,4 @@
--- #001 starfield - Karim Jerbi(@apolius) 06-2019
+-- #001 starfield - Karim Jerbi(@KarimJerbi) 06-2019
 
 function love.load()
 love.window.setTitle('Starfield')
