@@ -1,4 +1,4 @@
--- #050 Butterfly Generator - Karim Jerbi(@KarimJerbi)
+-- #060 Butterfly Generator - Karim Jerbi(@apolius)
 
 local yoff = 0
 

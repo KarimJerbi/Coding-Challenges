@@ -1,6 +1,6 @@
-# #060 Butterfly Generator
+# #108 Bransley Fern
 
-this is the 60th challenge in coding train's coding challenges.
+this is the 108th challenge in coding train's coding challenges.
 
 ## Controls
 
@@ -8,6 +8,7 @@ none
 
 ## Nice things to add: 
 
-- fill with patterns
+- add effects
+
 
 ### Please give advice/suggestion by reporting an issue or even better creating a pull request !

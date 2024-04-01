@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 38 out of 180 are completed that's about 21.11% progress so far!
+ currently 39 out of 182 are completed that's about 21.42% progress so far!
 
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -30,14 +30,15 @@ After downloading the [love framework](https://love2d.org)
 - [x] #021 [Mandelbrot Set](https://github.com/KarimJerbi/Coding-Challenges/blob/master/mandelbrot_set)
 - [x] #030 [Phyllotaxis](https://github.com/KarimJerbi/Coding-Challenges/blob/master/phyllotaxis)
 - [x] #036 [Blobby](https://github.com/KarimJerbi/Coding-Challenges/blob/master/blobby)
-- [x] #050 [Butterfly Generator](https://github.com/KarimJerbi/Coding-Challenges/blob/master/butterfly_generator)
 - [x] #052 [Random Walker](https://github.com/KarimJerbi/Coding-Challenges/blob/master/random_walker)
+- [x] #060 [Butterfly Generator](https://github.com/KarimJerbi/Coding-Challenges/blob/master/butterfly_generator)
 - [x] #066 [Countdown Timer](https://github.com/KarimJerbi/Coding-Challenges/blob/master/countdown_timer)
 - [x] #071 [Minesweeper](https://github.com/KarimJerbi/Coding-Challenges/blob/master/minesweeper)
 - [x] #074 [Clock](https://github.com/KarimJerbi/Coding-Challenges/blob/master/clock)
 - [x] #088 [Snowfall](https://github.com/KarimJerbi/Coding-Challenges/blob/master/snowfall)
 - [x] #095 [Pi approximation : Monte Carlo](https://github.com/KarimJerbi/Coding-Challenges/blob/master/pi_monteCarlo)
 - [x] #107 [Sand Piles](https://github.com/KarimJerbi/Coding-Challenges/blob/master/sandpiles)
+- [x] #108 [Bransley Fern](https://github.com/apolius/Coding-Challenges/blob/master/bransley_fern)
 - [x] #114 [Bubble Sort Visualization](https://github.com/KarimJerbi/Coding-Challenges/blob/master/bubble-sort-visualization)
 - [x] #115 [Snake Redux] -- I think this is the same as [#003](https://github.com/KarimJerbi/Coding-Challenges/tree/master/the_snakegame) please let me know if I am wrong
 - [x] #116 [Lissajous Table](https://github.com/KarimJerbi/Coding-Challenges/blob/master/lissajous)
