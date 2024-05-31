@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 39 out of 182 are completed that's about 21.42% progress so far!
+ currently 39 out of 183 are completed that's about 21.31% progress so far!
 
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -57,3 +57,4 @@ After downloading the [love framework](https://love2d.org)
 - [x] #167 [Prime Spiral](https://github.com/KarimJerbi/Coding-Challenges/blob/master/prime_spiral)
 - [x] #169 [Pi in the sky](https://github.com/KarimJerbi/Coding-Challenges/blob/master/pi_in_the_sky)
 - [x] #170 [The Monty Hall Problem](https://github.com/KarimJerbi/Coding-Challenges/blob/master/monty_hall)
+- [x] #183 [Mathematical Marbling](https://github.com/apolius/Coding-Challenges/blob/master/mathematical_marbling)
