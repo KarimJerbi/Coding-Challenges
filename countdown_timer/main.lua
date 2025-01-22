@@ -7,7 +7,7 @@ window = {}
 window.width = love.graphics.getWidth()
 window.height = love.graphics.getHeight()
 input = 80 -- edit this to modify the timing
-seconds,minutes,hours,s,ss,m,mm,h,hh = 0
+seconds,minutes,hours,s,ss,m,mm,h,hh = 0,0,0,0,0,0,0,0
 end
 
 function love.update(dt)
