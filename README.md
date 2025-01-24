@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 43 out of 185 are completed that's about 23.24% progress so far!
+ currently 44 out of 185 are completed that's about 23.78% progress so far!
 
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -35,6 +35,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #066 [Countdown Timer](https://github.com/KarimJerbi/Coding-Challenges/blob/master/countdown_timer)
 - [x] #071 [Minesweeper](https://github.com/KarimJerbi/Coding-Challenges/blob/master/minesweeper)
 - [x] #074 [Clock](https://github.com/KarimJerbi/Coding-Challenges/blob/master/clock)
+- [x] #076 [Print10](https://github.com/KarimJerbi/Coding-Challenges/blob/master/print10)
 - [x] #088 [Snowfall](https://github.com/KarimJerbi/Coding-Challenges/blob/master/snowfall)
 - [x] #095 [Pi approximation : Monte Carlo](https://github.com/KarimJerbi/Coding-Challenges/blob/master/pi_monteCarlo)
 - [x] #107 [Sand Piles](https://github.com/KarimJerbi/Coding-Challenges/blob/master/sandpiles)
