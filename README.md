@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 45 out of 185 are completed that's about 24.32% progress so far!
+ currently 46 out of 185 are completed that's about 24.86% progress so far!
 
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -50,6 +50,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #127 [Brownian Motion Snowflake](https://github.com/KarimJerbi/Coding-Challenges/blob/master/brownian-motion-snowflake)
 - [x] #131 [Bouncing DVD](https://github.com/KarimJerbi/Coding-Challenges/blob/master/bouncing_DVD)
 - [x] #132 [Fluid Simulation](https://github.com/KarimJerbi/Coding-Challenges/blob/master/fluid_simulation)
+- [x] #133 [Times Tables Cardioid](https://github.com/KarimJerbi/Coding-Challenges/blob/master/times_tables_cardioid)
 - [x] #139 [Pi approximation : Collisions](https://github.com/KarimJerbi/Coding-Challenges/blob/master/pi_collisions)
 - [x] #140 [Pi approximation : Leibniz](https://github.com/KarimJerbi/Coding-Challenges/blob/master/pi_Leibniz)
 - [x] #145 [2D raycasting](https://github.com/KarimJerbi/Coding-Challenges/blob/master/2d_raycasting)
