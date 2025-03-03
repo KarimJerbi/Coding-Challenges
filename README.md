@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 46 out of 185 are completed that's about 24.86% progress so far!
+ currently 47 out of 186 are completed that's about 25.26% progress so far!
 
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/starfield)
 - [ ] #002 Menger Sponge: help needed
@@ -47,6 +47,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #119 [Binary to Decimal Convertion](https://github.com/KarimJerbi/Coding-Challenges/blob/master/binary_to_decimal)
 - [x] #120 [Bit Shifting](https://github.com/KarimJerbi/Coding-Challenges/blob/master/bit-shifting)
 - [x] #125 [Fourier Series](https://github.com/KarimJerbi/Coding-Challenges/blob/master/fourier-series)
+- [x] #126 [Toothpicks](https://github.com/KarimJerbi/Coding-Challenges/blob/master/toothpicks)
 - [x] #127 [Brownian Motion Snowflake](https://github.com/KarimJerbi/Coding-Challenges/blob/master/brownian-motion-snowflake)
 - [x] #131 [Bouncing DVD](https://github.com/KarimJerbi/Coding-Challenges/blob/master/bouncing_DVD)
 - [x] #132 [Fluid Simulation](https://github.com/KarimJerbi/Coding-Challenges/blob/master/fluid_simulation)
