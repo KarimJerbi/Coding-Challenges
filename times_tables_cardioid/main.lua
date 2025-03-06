@@ -1,3 +1,5 @@
+-- #133 Times Table Cardioid - Karim Jerbi(@KarimJerbi)
+
 local factor = 0
 local r = 0
 local total = 200
@@ -5,6 +7,7 @@ local total = 200
 function love.load()
   love.window.setMode(800, 600)
   width, height = love.graphics.getDimensions()
+  love.window.setTitle("Times Table Cardioid")
   r = height / 2 - 16
 end
 
