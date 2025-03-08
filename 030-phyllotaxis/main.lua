@@ -11,7 +11,7 @@ function love.load()
 	function NewPoint()
 		local angle = I * 137.5;
 		local r = C * math.sqrt(I)
-		point = {}
+		local point = {}
 		point.x = r * math.cos(angle)*2
 		point.y = r * math.sin(angle)*2
 		table.insert(Points, point)

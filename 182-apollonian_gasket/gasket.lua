@@ -74,8 +74,8 @@ function Gasket:nextGeneration()
     local nextQueue = {}
     for _, triplet in ipairs(self.queue) do
       local c1, c2, c3 = unpack(triplet)
-      local k4 = descartes(c1, c2, c3)
-      local newCircles = complexDescartes(c1, c2, c3, k4)
+      local k4 = Descartes(c1, c2, c3)
+      local newCircles = ComplexDescartes(c1, c2, c3, k4)
       for _, newCircle in ipairs(newCircles) do
         if validate(newCircle, c1, c2, c3, self.allCircles) then
           table.insert(self.allCircles, newCircle)
@@ -140,7 +140,7 @@ function Gasket:show()
   end
 end
 
-function complexDescartes(c1, c2, c3, k4)
+function ComplexDescartes(c1, c2, c3, k4)
   local k1 = c1.bend
   local k2 = c2.bend
   local k3 = c3.bend
@@ -170,7 +170,7 @@ function complexDescartes(c1, c2, c3, k4)
   }
 end
 
-function descartes(c1, c2, c3)
+function Descartes(c1, c2, c3)
   local k1 = c1.bend
   local k2 = c2.bend
   local k3 = c3.bend
