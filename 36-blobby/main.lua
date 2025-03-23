@@ -2,7 +2,7 @@
 -- thanks Sasha from LOVE discord
 
 local function distance(p1, p2, s) -- steps between two control points
-	local s = s or 1
+	s = s or 1
 	return math.floor(math.sqrt((p2[1] - p1[1]) ^ 2 + (p2[2] - p1[2]) ^ 2) / s)
 end
 
@@ -39,54 +39,54 @@ local function smooth(points, s) -- CatMull Spline - control point format {#,#}
 end
 
 -- convert table of controlePoints to a spline
-function path(controlePoints)
-	spline = smooth(controlePoints, 10)
+function Path(controlePoints)
+	local spline = smooth(controlePoints, 10)
 	return spline
 end
 
-function map(x, in_min, in_max, out_min, out_max)
+function Map(x, in_min, in_max, out_min, out_max)
 	return out_min + (x - in_min)*(out_max - out_min)/(in_max - in_min)
 end
 
 function love.load()
 	love.window.setTitle("Blobby")
-	vertices = {}
-	radius = 150
-	segments = 20
+	Vertices = {}
+	Radius = 150
+	Segments = 20
 	
-	angleStep = (2 * math.pi) / segments
+	AngleStep = (2 * math.pi) / Segments
 	local angle = 0
-	yoff = 0
+	Y_off = 0
 	local xoff = 0
-	for i = 1, segments do
-		local offset = map(love.math.noise(xoff, yoff), 0, 1, -25, 25)
-		local r = radius + offset
+	for i = 1, Segments do
+		local offset = Map(love.math.noise(xoff, Y_off), 0, 1, -25, 25)
+		local r = Radius + offset
 		local x = r * math.cos(angle)
 		local y = r * math.sin(angle)
-		table.insert(vertices, {x, y})
+		table.insert(Vertices, {x, y})
 		xoff = xoff + 0.1
-		angle = angle + angleStep
+		angle = angle + AngleStep
 	end
-	table.insert(vertices, vertices[1])
-	blobby = {}
-	blobby = path(vertices)
+	table.insert(Vertices, Vertices[1])
+	Blobby = {}
+	Blobby = Path(Vertices)
 end
 
 function love.update()
 local angle = 0 
 local xoff = 0
-	for i = 1, segments do
-		local offset = map(love.math.noise(xoff, yoff), 0, 1, -25, 25)
-		local r = radius + offset
+	for i = 1, Segments do
+		local offset = Map(love.math.noise(xoff, Y_off), 0, 1, -25, 25)
+		local r = Radius + offset
 		local x = r * math.cos(angle)
 		local y = r * math.sin(angle)
-		vertices[i][1] = x
-		vertices[i][2] = y
-		angle = angle + angleStep
+		Vertices[i][1] = x
+		Vertices[i][2] = y
+		angle = angle + AngleStep
 		xoff = xoff + 0.1
 	end
-	yoff = yoff +0.1
-	blobby = path(vertices)
+	Y_off = Y_off +0.1
+	Blobby = Path(Vertices)
 	love.timer.sleep(0.1)
 end
 
@@ -95,14 +95,14 @@ function love.draw()
 	love.graphics.setLineWidth(2)
 	love.graphics.setLineStyle("smooth")
 	local shapee = {}
-	for i = 1, #blobby - 1 do
+	for i = 1, #Blobby - 1 do
 		-- draws outline
-		-- love.graphics.line(blobby[i][1], blobby[i][2], blobby[i + 1][1], blobby[i + 1][2])
-		table.insert(shapee, blobby[i][1])
-		table.insert(shapee, blobby[i][2])
+		-- love.graphics.line(Blobby[i][1], Blobby[i][2], Blobby[i + 1][1], Blobby[i + 1][2])
+		table.insert(shapee, Blobby[i][1])
+		table.insert(shapee, Blobby[i][2])
 	end
-	table.insert(shapee, blobby[#blobby][1])
-	table.insert(shapee, blobby[#blobby][2])
+	table.insert(shapee, Blobby[#Blobby][1])
+	table.insert(shapee, Blobby[#Blobby][2])
 	love.graphics.setColor(1, 0.2, 0.4)
 	love.graphics.polygon("fill", shapee)
 	love.graphics.setColor(1, 1, 1)

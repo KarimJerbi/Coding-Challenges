@@ -2,17 +2,16 @@
 
 function love.load()
 love.window.setTitle('Pi : Monte Carlo')
-lg = love.graphics
-r = 256 -- window size * 0.5
+R = 256 -- window size * 0.5
 
-points = {}
+Points = {}
 
-function newpoint()
+function NewPoint()
 	local point = {}
-	point.x = math.random(-r,r)
-	point.y = math.random(-r,r)
+	point.x = math.random(-R,R)
+	point.y = math.random(-R,R)
 	
-	if (point.x)^2 + (point.y)^2 <= r^2 then 
+	if (point.x)^2 + (point.y)^2 <= R^2 then 
 		point.pos = 0
 	else
 		point.pos = 1
@@ -21,33 +20,33 @@ function newpoint()
 	return point
 end
 
-p = newpoint()
-c = 0.0
-total = 0
-pie = 0
+P = NewPoint()
+C = 0.0
+Total = 0
+Pie = 0
 end
 
 function love.update()
 for i=1,100 do
-	p = newpoint()
-	if p.pos == 0 then 
-		c = c + 1
+	P = NewPoint()
+	if P.pos == 0 then 
+		C = C + 1
 	end
-	table.insert(points, p)
+	table.insert(Points, P)
 end
-total = total+ 100
-pie = 4*(c/total)
-love.window.setTitle('Pi : Monte Carlo : '..pie)
+Total = Total+ 100
+Pie = 4*(C/Total)
+love.window.setTitle('Pi : Monte Carlo : '..Pie)
 end
 
 function love.draw()
-	lg.translate(r,r)
-	for _,point in ipairs(points) do
+	love.graphics.translate(R,R)
+	for _,point in ipairs(Points) do
 		if point.pos == 0 then
-			lg.setColor(1,1,1)
+			love.graphics.setColor(1,1,1)
 		else
-			lg.setColor(0,0.2,0.5)
+			love.graphics.setColor(0,0.2,0.5)
 		end
-		lg.points(point.x,point.y)
+		love.graphics.Points(point.x,point.y)
 	end
 end
