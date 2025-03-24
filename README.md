@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 51 out of 186 are completed that's about 27.41% progress so far!
+ currently 52 out of 186 are completed that's about 27.95% progress so far!
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/001-starfield)
 - [ ] #002 Menger Sponge: help needed
 - [x] #003 [Snake Game](https://github.com/KarimJerbi/Coding-Challenges/tree/master/003-snake-game)
@@ -41,6 +41,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #107 [Sand Piles](https://github.com/KarimJerbi/Coding-Challenges/blob/master/107-sandpiles)
 - [x] #108 [Bransley Fern](https://github.com/apolius/Coding-Challenges/blob/master/108-bransley_fern)
 - [x] #111 [Animated Sprites](https://github.com/KarimJerbi/Coding-Challenges/blob/master/111-animated_sprites)
+- [x] #112 [3D Rendering Rotation Projection](https://github.com/KarimJerbi/Coding-Challenges/blob/master/112-3d_rendering_rotation_projection)
 - [x] #114 [Bubble Sort Visualization](https://github.com/KarimJerbi/Coding-Challenges/blob/master/114-bubble_sort_visualization)
 - [x] #115 [Snake Redux] -- I think this is the same as [#003](https://github.com/KarimJerbi/Coding-Challenges/tree/master/003-snake_game) please let me know if I am wrong
 - [x] #116 [Lissajous Table](https://github.com/KarimJerbi/Coding-Challenges/blob/master/116-lissajous)
