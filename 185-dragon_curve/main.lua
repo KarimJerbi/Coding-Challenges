@@ -1,4 +1,4 @@
--- #185 Tic Tac Toe - Karim Jerbi(@KarimJerbi)
+-- #185 Dragon Curve - Karim Jerbi(@KarimJerbi)
 
 local LSystem = require "lsystem"
 local Turtle = require "turtle"

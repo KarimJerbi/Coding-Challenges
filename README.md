@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 52 out of 186 are completed that's about 27.95% progress so far!
+ currently 53 out of 186 are completed that's about 28.49% progress so far!
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/001-starfield)
 - [ ] #002 Menger Sponge: help needed
 - [x] #003 [Snake Game](https://github.com/KarimJerbi/Coding-Challenges/tree/master/003-snake-game)
@@ -68,4 +68,5 @@ After downloading the [love framework](https://love2d.org)
 - [x] #180 [Falling Sand](https://github.com/KarimJerbi/Coding-Challenges/blob/master/180-falling_sand)
 - [x] #182 [Apollopian Gasket](https://github.com/KarimJerbi/Coding-Challenges/blob/master/182-apollopian_gasket)
 - [x] #183 [Mathematical Marbling](https://github.com/apolius/Coding-Challenges/blob/master/183-mathematical_marbling)
+- [x] #184 [Elastic Collision](https://github.com/KarimJerbi/Coding-Challenges/blob/master/184-elastic_collisions)
 - [x] #185 [Dragon Curve](https://github.com/KarimJerbi/Coding-Challenges/blob/master/185-dragon_curve)
