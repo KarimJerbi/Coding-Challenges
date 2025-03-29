@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
- currently 53 out of 186 are completed that's about 28.49% progress so far!
+currently 54 out of 186 are completed that's about 29.03% progress so far!
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/001-starfield)
 - [ ] #002 Menger Sponge: help needed
 - [x] #003 [Snake Game](https://github.com/KarimJerbi/Coding-Challenges/tree/master/003-snake-game)
@@ -51,6 +51,7 @@ After downloading the [love framework](https://love2d.org)
 - [x] #125 [Fourier Series](https://github.com/KarimJerbi/Coding-Challenges/blob/master/125-fourier_series)
 - [x] #126 [Toothpicks](https://github.com/KarimJerbi/Coding-Challenges/blob/master/126-toothpicks)
 - [x] #127 [Brownian Motion Snowflake](https://github.com/KarimJerbi/Coding-Challenges/blob/master/127-brownian_tree_snowflake)
+- [x] #129 [Koch Snowflake](https://github.com/KarimJerbi/Coding-Challenges/blob/master/129-koch_snowflake)
 - [x] #131 [Bouncing DVD](https://github.com/KarimJerbi/Coding-Challenges/blob/master/131-bouncing_DVD)
 - [x] #132 [Fluid Simulation](https://github.com/KarimJerbi/Coding-Challenges/blob/master/132-fluid_simulation)
 - [x] #133 [Times Tables Cardioid](https://github.com/KarimJerbi/Coding-Challenges/blob/master/133-times_tables_cardioid)
