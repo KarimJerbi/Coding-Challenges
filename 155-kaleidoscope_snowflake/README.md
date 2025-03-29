@@ -30,12 +30,4 @@ w + ↑ : increase stroke width value
 
 w + ↓ : decrease stroke width value
 
-
-## Nice things to add: 
-
-- color palette
-
-- export the image to a media extension (png, jpeg ...)
- 
-
 ### Please give advice/suggestion by reporting an issue or even better creating a pull request !

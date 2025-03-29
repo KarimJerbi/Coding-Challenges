@@ -7,9 +7,4 @@ Horse Spritesheet from [opengameart](https://opengameart.org/content/2d-platform
 
 none
 
-## Nice things to add: 
-
-- variable sprite with json parsing
-
 ### Please give advice/suggestion by reporting an issue or even better creating a pull request !
-
