@@ -15,7 +15,7 @@ After downloading the [love framework](https://love2d.org)
 >$ love $challenge
 
 ## A list of completed challenges:
-currently 54 out of 186 are completed that's about 29.03% progress so far!
+currently 55 out of 186 are completed that's about 29.56% progress so far!
 - [x] #001 [Starfield](https://github.com/KarimJerbi/Coding-Challenges/blob/master/001-starfield)
 - [ ] #002 Menger Sponge: help needed
 - [x] #003 [Snake Game](https://github.com/KarimJerbi/Coding-Challenges/tree/master/003-snake-game)
@@ -27,6 +27,7 @@ currently 54 out of 186 are completed that's about 29.03% progress so far!
 - [x] #013 [Reaction Diffusion](https://github.com/KarimJerbi/Coding-Challenges/blob/master/013-reaction_diffusion)
 - [x] #014 [Fractal Tree](https://github.com/KarimJerbi/Coding-Challenges/blob/master/014-fractal_tree)
 - [x] #021 [Mandelbrot Set](https://github.com/KarimJerbi/Coding-Challenges/blob/master/021-mandelbrot_set)
+- [x] #023 [Super Shape 2D](https://github.com/KarimJerbi/Coding-Challenges/blob/master/023-super_shape_2d)
 - [x] #030 [Phyllotaxis](https://github.com/KarimJerbi/Coding-Challenges/blob/master/030-phyllotaxis)
 - [x] #036 [Blobby](https://github.com/KarimJerbi/Coding-Challenges/blob/master/036-blobby)
 - [x] #052 [Random Walker](https://github.com/KarimJerbi/Coding-Challenges/blob/master/052-random_walker)
